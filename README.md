@@ -1,2 +1,2 @@
 # covid19-graph
-A simple application to show the statics of corona situation for all over the world.
+A simple application to show the statistics of corona situation for all over the world. Used spring boot along with vaadin 10 as the frontend. To determine the country from the IP adress I've used GeoLite2-City.mmdb file downloaded from https://dev.maxmind.com/geoip/geoip2/geolite2. Used MVP as the design architecture and tried to keep the implementation as object oriented as possible.
